@@ -1,0 +1,7 @@
+*.o
+*.out
+*.orig
+*.rej
+.DS_Store
+config.h
+ng
